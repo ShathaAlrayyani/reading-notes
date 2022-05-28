@@ -11,6 +11,8 @@
 ## Code 401 - Advanced Software Development
 
 ## Things I want to know more about
+1- I want to know more about Big O notation </br>
+2- I want to know more about readlines method in reading files in Python because I'm still confused about.  
 
 
 ## Introduction to SQL
