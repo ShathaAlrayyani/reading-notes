@@ -1,0 +1,2 @@
+## The Command Line
+  > I did not expect to learn much from it </br> But this task surprised me about how much information I didn't know about, espically the "man (any command you want)" this shows what they do, the specifics of how you run them and what command line arguments they accept. **So for me this experiance was great.**

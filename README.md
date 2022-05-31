@@ -10,13 +10,18 @@
 
 ## Code 401 - Advanced Software Development
 
-## Things I want to know more about
+|Task Name |Link  |
+--- | --- |
+|***Prep Work***||
+|Introduction to SQL|[Here](Introduction-to-SQL/SQL-summary.md)|
+|The Command Line|[Here](The-Command-Line.md)|
+| ***Reading Tasks***||
+|Reading Class 01|[Here](Reading-Classes/class01.md)|
+|Reading Journal|[Here](Reading-Classes/Learning-Journal.md)|
+|Reading Class02|[Here](Reading-Classes/Reading-Class02.md)|
+|||
+</br></br>
+
+## Things I want to know more about:
 1- I want to know more about Big O notation </br>
-2- I want to know more about readlines method in reading files in Python because I'm still confused about.  
-
-
-## Introduction to SQL
-  > I learned a lot about SQL especially about Logical Operators and Database Management </br> I made a summary for the Logical Operators and the 4 types of JOIN </br> [My Note](https://miro.com/app/board/uXjVOyFe-Wg=/?share_link_id=284024926672) I will add what I learned about Database Management ASAP INSHAALLAH
-
-  ## The Command Line
-  > I did not expect to learn much from it </br> But this task surprised me about how much information I didn't know about, espically the "man (any command you want)" this shows what they do, the specifics of how you run them and what command line arguments they accept. **So for me this experiance was great.**
+2- I want to know more about readlines method in reading files in Python because I'm still confused about.  </br>
