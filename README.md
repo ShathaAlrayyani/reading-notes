@@ -19,7 +19,6 @@
 |Reading Class 01|[Here](Reading-Classes/class01.md)|
 |Reading Journal|[Here](Reading-Classes/Learning-Journal.md)|
 |Reading Class02|[Here](Reading-Classes/Reading-Class02.md)|
-|||
 </br></br>
 
 ## Things I want to know more about:
