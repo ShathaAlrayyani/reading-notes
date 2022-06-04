@@ -16,10 +16,11 @@
 |Introduction to SQL|[Here](https://shathaalrayyani.github.io/reading-notes/Introduction-to-SQL/SQL-summary.html)|
 |The Command Line|[Here](https://shathaalrayyani.github.io/reading-notes/The-Command-Line.html)|
 | ***Reading Tasks***||
-|Reading Class 01|[Here](Reading-Classes/class01.md)|
-|Reading Journal|[Here](Reading-Classes/Learning-Journal.md)|
-|Reading Class02|[Here](Reading-Classes/Reading-Class02.md)|
-</br></br>
+|Reading Class 01|[Here](https://shathaalrayyani.github.io/reading-notes/Reading-Classes/class01.html)|
+|Reading Journal|[Here](https://shathaalrayyani.github.io/reading-notes/Reading-Classes/Learning-Journal.html)|
+|Reading Class02|[Here](https://shathaalrayyani.github.io/reading-notes/Reading-Classes/Reading-Class02.html)|
+|Reading Class 03|[Here]()|
+
 
 ## Things I want to know more about:
 1- I want to know more about Big O notation </br>
