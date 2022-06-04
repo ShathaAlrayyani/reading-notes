@@ -13,7 +13,7 @@
 |Task Name |Link  |
 --- | --- |
 |***Prep Work***||
-|Introduction to SQL|[Here](Introduction-to-SQL/SQL-summary.md)|
+|Introduction to SQL|[Here]([Introduction-to-SQL/SQL-summary.md](https://shathaalrayyani.github.io/reading-notes/Introduction-to-SQL/SQL-summary.html))|
 |The Command Line|[Here](The-Command-Line.md)|
 | ***Reading Tasks***||
 |Reading Class 01|[Here](Reading-Classes/class01.md)|
