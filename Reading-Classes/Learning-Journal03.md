@@ -28,4 +28,4 @@ by using try-except block , you can put your code in try the except will catch t
 actually it is similler to try-catch block in JavaScript.
 
 
->Yes it is my responsibility to find answers for my questions, but also that means the lecture should give me the basics or even more so I can uderstand and know where and how to start by myself. It is waste of time if I take a 5 hour lecture and then I have to search for everything and not having any information more than what I read in reading task and not having profissional assistance from the instructor at least during the lecture.
+>Yes, it is my responsibility to find answers to my questions, but also that means the lecture should give me the basics or even more so I can understand and know where and how to start by myself. It is waste of time if I take a 5-hour lecture and then I have to search for everything and not have any information more than what I read in the reading task and not have professional assistance from the instructor at least during the lecture.
