@@ -13,11 +13,12 @@
 |Task Name |Link  |
 --- | --- |
 |***Prep Work***||
-|Introduction to SQL|[Here](https://shathaalrayyani.github.io/reading-notes/Introduction-to-SQL/SQL-summary.html)|
-|The Command Line|[Here](https://shathaalrayyani.github.io/reading-notes/The-Command-Line.html)|
+|Introduction to SQL|[Here](prep-work/introduction-to-SQL/SQL-summary.md)|
+|The Command Line|[Here](prep-work/The-Command-Line.md)|
 | ***Reading Tasks***||
 |Reading Class 01|[Here](https://shathaalrayyani.github.io/reading-notes/Reading-Classes/class01.html)|
-|Reading Journal|[Here](https://shathaalrayyani.github.io/reading-notes/Reading-Classes/Learning-Journal.html)|
 |Reading Class02|[Here](https://shathaalrayyani.github.io/reading-notes/Reading-Classes/Reading-Class02.html)|
 |Reading Class 03|[Here](https://shathaalrayyani.github.io/reading-notes/Reading-Classes/Reading-class03.html)|
+|Learning Journal01|[Here](https://shathaalrayyani.github.io/reading-notes/Reading-Classes/Learning-Journal.html)|
+|Learning Journal02|[Here](Reading-Classes/Learning-Journal02.md)|
 
