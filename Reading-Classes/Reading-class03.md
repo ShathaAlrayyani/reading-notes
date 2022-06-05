@@ -24,11 +24,11 @@ You can use more than one method to close a file, one of them is by using try-fi
 
 reader = open('dog_breeds.txt')
 
-try:
+  try:
 
     Further file processing goes here
     
-finally:
+  finally:
 
     reader.close()
     
@@ -45,3 +45,34 @@ with statement automatically takes care of closing the file once it leaves the w
 The try and except block in Python is used to catch and handle exceptions.
 Python executes code following the try statement as a “normal” part of the program.
 The code that follows the except statement is the program’s response to any exceptions in the preceding try clause.
+
+  try:
+
+    linux_interaction()
+    
+  except:
+
+    print('Linux function was not executed')
+    
+## The else Clause
+In Python, using the else statement, you can instruct a program to execute 
+a certain block of code only in the absence of exceptions.
+
+ try:
+ 
+    linux_interaction()
+    
+ except AssertionError as error:
+
+    print(error)
+    
+ else:
+
+    print('Executing the else clause.')
+
+
+
+## Things I want to know more about:
+1- I want to know more about Big O notation.
+
+2- I want to know more about readlines method in reading files in Python because I’m still confused about it.
