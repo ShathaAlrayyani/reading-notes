@@ -19,9 +19,5 @@
 |Reading Class 01|[Here](https://shathaalrayyani.github.io/reading-notes/Reading-Classes/class01.html)|
 |Reading Journal|[Here](https://shathaalrayyani.github.io/reading-notes/Reading-Classes/Learning-Journal.html)|
 |Reading Class02|[Here](https://shathaalrayyani.github.io/reading-notes/Reading-Classes/Reading-Class02.html)|
-|Reading Class 03|[Here](Reading-Classes/Reading-class03.md)|
+|Reading Class 03|[Here](https://shathaalrayyani.github.io/reading-notes/Reading-Classes/Reading-class03.html)|
 
-
-## Things I want to know more about:
-1- I want to know more about Big O notation </br>
-2- I want to know more about readlines method in reading files in Python because I'm still confused about.  </br>
