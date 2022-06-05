@@ -19,7 +19,7 @@
 |Reading Class 01|[Here](https://shathaalrayyani.github.io/reading-notes/Reading-Classes/class01.html)|
 |Reading Journal|[Here](https://shathaalrayyani.github.io/reading-notes/Reading-Classes/Learning-Journal.html)|
 |Reading Class02|[Here](https://shathaalrayyani.github.io/reading-notes/Reading-Classes/Reading-Class02.html)|
-|Reading Class 03|[Here]()|
+|Reading Class 03|[Here](Reading-Classes/Reading-class03.md)|
 
 
 ## Things I want to know more about:
