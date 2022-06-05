@@ -101,3 +101,17 @@ Join table 2   ----> right table
 On table1.pk_name = table2.fk_name
 
 **For more information please see my Note** [here](https://miro.com/app/board/uXjVOvB7w3E=/)
+
+
+![](task%20sql1.png)
+![](task%20sql2.png)
+![](task%20sql3.png)
+![](task%20sql4.png)
+![](task%20sql5.png)
+![](task%20sql6.png)
+![](task%20sql13.png)
+![](task%20sql14.png)
+![](task%20sql15.png)
+![](task%20sql16.png)
+![](task%20sql17.png)
+![](task%20sql18.png)
