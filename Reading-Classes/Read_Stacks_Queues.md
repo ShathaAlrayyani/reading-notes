@@ -17,11 +17,11 @@ To implement a stack, therefore, we need two simple operations:
 
 - push - adds an element to the top of the stack:
 
-![Adding an item to a stack](../../../Downloads/stacks-and-queues-in-python-1.jpg)
+![Adding an item to a stack](stacks-and-queues-in-python-1.jpg)
 
 - pop - removes the element at the top of the stack:
 
-![removing an item](../../../Downloads/stacks-and-queues-in-python-2.jpg)
+![removing an item](stacks-and-queues-in-python-2.jpg)
 
 ## Queue
 Queues, like the name suggests, follow the First-in-First-Out (FIFO) principle. 
@@ -32,11 +32,11 @@ To implement a queue, therefore, we need two simple operations:
 
 - enqueue - adds an element to the end of the queue:
 
-![enqueue](../../../Downloads/stacks-and-queues-in-python-3.jpg)
+![enqueue](stacks-and-queues-in-python-3.jpg)
 
 - dequeue - removes the element at the beginning of the queue:
 
-![dequeue](../../../Downloads/stacks-and-queues-in-python-4.jpg)
+![dequeue](stacks-and-queues-in-python-4.jpg)
 
 ## Stacks follow these concepts:
 
