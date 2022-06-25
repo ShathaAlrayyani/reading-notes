@@ -22,12 +22,13 @@ My live URL for the main page [here](https://shathaalrayyani.github.io/reading-n
 | Reading Class02       | [Here](https://shathaalrayyani.github.io/reading-notes/Reading-Classes/Reading-Class02.html)           |
 | Reading Class 03      | [Here](https://shathaalrayyani.github.io/reading-notes/Reading-Classes/Reading-class03.html)           |
 | Reading Class 04      | [Here](https://shathaalrayyani.github.io/reading-notes/Reading-Classes/Reading-class04.html)           |
+| Read: Linked Lists    | [Here](https://shathaalrayyani.github.io/reading-notes/Reading-Classes/Read-Linked-Lists.html)         |
 | Reading Class 06      | [Here](https://shathaalrayyani.github.io/reading-notes/Reading-Classes/Reading-class06.html)           |
 | Reading Class 07      | [Here](https://shathaalrayyani.github.io/reading-notes/Reading-Classes/Reading-class07.html)           |
 | Reading Class 08      | [Here](https://shathaalrayyani.github.io/reading-notes/Reading-Classes/Reading-class08.html)           |
 | Reading Class 09      | [Here](https://shathaalrayyani.github.io/reading-notes/Reading-Classes/Reading-class09.html)           |
-| Read: Linked Lists    | [Here](https://shathaalrayyani.github.io/reading-notes/Reading-Classes/Read-Linked-Lists.html)         |
 | Read: Stacks & Queues | [Here](https://shathaalrayyani.github.io/reading-notes/Reading-Classes/Read_Stacks_Queues.html)        |
+| Reading Class 11      | [Here](https://shathaalrayyani.github.io/reading-notes/Reading-Classes/Reading-class11.html)           |
 | Learning Journal01    | [Here](https://shathaalrayyani.github.io/reading-notes/Reading-Classes/Learning-Journal01.html)        |
 | Learning Journal02    | [Here](https://shathaalrayyani.github.io/reading-notes/Reading-Classes/Learning-Journal02.html)        |
 | Learning Journal03    | [Here](https://shathaalrayyani.github.io/reading-notes/Reading-Classes/Learning-Journal03.html)        |
