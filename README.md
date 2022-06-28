@@ -29,6 +29,7 @@ My live URL for the main page [here](https://shathaalrayyani.github.io/reading-n
 | Reading Class 09      | [Here](https://shathaalrayyani.github.io/reading-notes/Reading-Classes/Reading-class09.html)           |
 | Read: Stacks & Queues | [Here](https://shathaalrayyani.github.io/reading-notes/Reading-Classes/Read_Stacks_Queues.html)        |
 | Reading Class 11      | [Here](https://shathaalrayyani.github.io/reading-notes/Reading-Classes/Reading-class11.html)           |
+| Reading Class 12      | [Here](https://shathaalrayyani.github.io/reading-notes/Reading-Classes/Reading-class12.html)           |
 | Learning Journal01    | [Here](https://shathaalrayyani.github.io/reading-notes/Reading-Classes/Learning-Journal01.html)        |
 | Learning Journal02    | [Here](https://shathaalrayyani.github.io/reading-notes/Reading-Classes/Learning-Journal02.html)        |
 | Learning Journal03    | [Here](https://shathaalrayyani.github.io/reading-notes/Reading-Classes/Learning-Journal03.html)        |
