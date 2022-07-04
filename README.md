@@ -34,7 +34,6 @@ My live URL for the main page [here](https://shathaalrayyani.github.io/reading-n
 | Reading Class 14      | [Here](https://shathaalrayyani.github.io/reading-notes/Reading-Classes/Reading-class14.html)           |
 | Read: Trees           | [Here](https://shathaalrayyani.github.io/reading-notes/Reading-Classes/Trees.html)                     |
 | Reading Class 16      | [Here](https://shathaalrayyani.github.io/reading-notes/Reading-Classes/Reading-class16.html)           |
-| Learning Journal01    | [Here](https://shathaalrayyani.github.io/reading-notes/Reading-Classes/Learning-Journal01.html)        |
-| Learning Journal02    | [Here](https://shathaalrayyani.github.io/reading-notes/Reading-Classes/Learning-Journal02.html)        |
-| Learning Journal03    | [Here](https://shathaalrayyani.github.io/reading-notes/Reading-Classes/Learning-Journal03.html)        |
+| Reading Class 17      | [Here](https://shathaalrayyani.github.io/reading-notes/Reading-Classes/Reading-class17.html)           |
+
 
