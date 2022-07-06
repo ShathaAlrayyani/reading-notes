@@ -35,5 +35,5 @@ My live URL for the main page [here](https://shathaalrayyani.github.io/reading-n
 | Read: Trees           | [Here](https://shathaalrayyani.github.io/reading-notes/Reading-Classes/Trees.html)                     |
 | Reading Class 16      | [Here](https://shathaalrayyani.github.io/reading-notes/Reading-Classes/Reading-class16.html)           |
 | Reading Class 17      | [Here](https://shathaalrayyani.github.io/reading-notes/Reading-Classes/Reading-class17.html)           |
-
+| Reading Class 18      | [Here](https://shathaalrayyani.github.io/reading-notes/Reading-Classes/Reading-class18.html)           |
 
