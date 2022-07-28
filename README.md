@@ -38,5 +38,6 @@ My live URL for the main page [here](https://shathaalrayyani.github.io/reading-n
 | Reading Class 18      | [Here](https://shathaalrayyani.github.io/reading-notes/Reading-Classes/Reading-class18.html)           |
 | Reading Class 26      | [Here](https://shathaalrayyani.github.io/reading-notes/Reading-Classes/Reading-class26.html)           |
 | Reading Class 27      | [Here](https://shathaalrayyani.github.io/reading-notes/Reading-Classes/Reading-class27.html)           |
+| Reading Class 28      | [Here](https://shathaalrayyani.github.io/reading-notes/Reading-Classes/Reading-class28.html)           |
 
 
