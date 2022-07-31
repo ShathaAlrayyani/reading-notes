@@ -39,5 +39,5 @@ My live URL for the main page [here](https://shathaalrayyani.github.io/reading-n
 | Reading Class 26      | [Here](https://shathaalrayyani.github.io/reading-notes/Reading-Classes/Reading-class26.html)           |
 | Reading Class 27      | [Here](https://shathaalrayyani.github.io/reading-notes/Reading-Classes/Reading-class27.html)           |
 | Reading Class 28      | [Here](https://shathaalrayyani.github.io/reading-notes/Reading-Classes/Reading-class28.html)           |
-
+| Reading Class 29      | [Here](https://shathaalrayyani.github.io/reading-notes/Reading-Classes/Reading-class29.html)           |
 
