@@ -1,3 +1,14 @@
+## Docker
+
+- Docker is a way to run Linux containers
+- Containers are a lightweight alternative to Virtual Machines
+- Dockerfile is a list of instructions for creating an image
+- Images are made up of one or more layers
+- Containers are a running instance of an image
+- docker-compose.yml controls how to run the container
+- Containers are stateless and ephemeral in nature.
+
+
 ## How to Install Docker
 
 To install Docker we need to download the desktop app on our computer and create a free account. The initial download of
@@ -16,11 +27,3 @@ Now run the command below to confirm you have a working version of it, too. The 
 
     $ docker-compose --version
     docker-compose version 1.24.1, build 4667896b
-
-- Docker is a way to run Linux containers
-- Containers are a lightweight alternative to Virtual Machines
-- Dockerfile is a list of instructions for creating an image
-- Images are made up of one or more layers
-- Containers are a running instance of an image
-- docker-compose.yml controls how to run the container
-- Containers are stateless and ephemeral in nature.
