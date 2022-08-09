@@ -23,5 +23,4 @@ Now run the command below to confirm you have a working version of it, too. The 
 - Images are made up of one or more layers
 - Containers are a running instance of an image
 - docker-compose.yml controls how to run the container
-- Containers are stateless and ephemeral in nature. We can link the local filesystem via volumes but things become more
-complex with databases (which we didn’t cover here).
+- Containers are stateless and ephemeral in nature.
