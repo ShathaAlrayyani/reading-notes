@@ -43,3 +43,6 @@ My live URL for the main page [here](https://shathaalrayyani.github.io/reading-n
 | Reading Class 30: Hash Tables | [Here](https://shathaalrayyani.github.io/reading-notes/Reading-Classes/Hash_Tables.html)               |
 | Reading Class 31              | [Here](https://shathaalrayyani.github.io/reading-notes/Reading-Classes/Reading-class31.html)           |
 | Reading Class 32              | [Here](https://shathaalrayyani.github.io/reading-notes/Reading-Classes/Reading-class32.html)           |
+| Reading Class 33              | [Here](https://shathaalrayyani.github.io/reading-notes/Reading-Classes/Reading-class33.html)           |
+| Reading Class 34              | [Here](https://shathaalrayyani.github.io/reading-notes/Reading-Classes/Reading-class34.html)           |
+
