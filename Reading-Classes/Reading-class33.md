@@ -10,7 +10,7 @@ use cases.
 
 Throughout this tutorial, you are going to work on a simple Bitcoin tracker app as an example project.
 
-The first step is to install Django. Here is how you do that on Linux or macOS X using a virtual environment:
+The first step is to install Django. Here is how you do that on Linux or mac OS X using a virtual environment:
 
     $ python3 -m venv env
     $ source env/bin/activate

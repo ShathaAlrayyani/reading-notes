@@ -45,4 +45,5 @@ My live URL for the main page [here](https://shathaalrayyani.github.io/reading-n
 | Reading Class 32              | [Here](https://shathaalrayyani.github.io/reading-notes/Reading-Classes/Reading-class32.html)           |
 | Reading Class 33              | [Here](https://shathaalrayyani.github.io/reading-notes/Reading-Classes/Reading-class33.html)           |
 | Reading Class 34              | [Here](https://shathaalrayyani.github.io/reading-notes/Reading-Classes/Reading-class34.html)           |
+| Reading Class 35: Graphs      | [Here](https://shathaalrayyani.github.io/reading-notes/Reading-Classes/Reading-class35.html)           |
 
