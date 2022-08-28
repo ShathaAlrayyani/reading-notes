@@ -49,3 +49,4 @@ My live URL for the main page [here](https://shathaalrayyani.github.io/reading-n
 | Reading Class 36              | [Here](https://shathaalrayyani.github.io/reading-notes/Reading-Classes/Reading-class36.html)           |
 | Reading Class 37              | [Here](https://shathaalrayyani.github.io/reading-notes/Reading-Classes/Reading-class37.html)           |
 | Reading Class 38              | [Here](https://shathaalrayyani.github.io/reading-notes/Reading-Classes/Reading-class38.html)           |
+| Reading Class 39              | [Here](https://shathaalrayyani.github.io/reading-notes/Reading-Classes/Reading-class39.html)           |
