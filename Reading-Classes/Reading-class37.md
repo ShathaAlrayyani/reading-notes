@@ -68,7 +68,7 @@ ES6
 
 
 ## Classes/constructor functions
-Introducess the class syntax on top of the prototype-based constructor function.
+Introduces the class syntax on top of the prototype-based constructor function.
 
 ES5
     
